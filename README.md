@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
+<img align="center" alt="Coding" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
 <h1 align="center">Hi 👋, I'm Jeeva</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
